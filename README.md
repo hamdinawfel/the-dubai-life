@@ -37,10 +37,16 @@ git clone https://github.com/hamdinawfel/the-dubai-life.git
 php -S localhost:4000
 ```
 
-### Live test in browser
+### Live test in browser for UI1 screen
 
 ```
 http://localhost:4000/www/screens/ui1/index.php
+```
+
+### Live test in browser for UI2 screen
+
+```
+http://localhost:4000/www/screens/ui2/index.php
 ```
 
 ## 3. Screenshots Result <a name="heading--3"/>
