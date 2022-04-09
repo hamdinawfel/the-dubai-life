@@ -8,7 +8,7 @@
     </div>
     <ul class="flex items-center md:justify-center space-x-8">
       <!-- Drop Down Menu -->
-      <li class="flex justify-center z-20 hidden lg:flex">
+      <li class="flex justify-center z-20">
           <div
               x-data="{
                   open: false,
@@ -80,9 +80,9 @@
           </div>
       </li>
       <!-- End Drop Down Menu -->
-      <li><a href="https://the-dubai-life.com/expatriation/" target="_blank" class="hidden lg:flex font-normal tracking-wide text-white transition-colors duration-200 hover:text-[#D1A046]">S'installer à Dubai</a></li>
-      <li><a href="https://the-dubai-life.com/creer-une-entreprise/" target="_blank" class="hidden lg:flex font-normal tracking-wide text-white transition-colors duration-200 hover:text-[#D1A046]">Business</a></li>
-      <li><a href="https://the-dubai-life.com/investir/" target="_blank" class="hidden lg:flex font-normal tracking-wide text-white transition-colors duration-200 hover:text-[#D1A046]">Investir</a></li>
+      <li><a href="https://the-dubai-life.com/expatriation/" target="_blank" class="flex font-normal tracking-wide text-white transition-colors duration-200 hover:text-[#D1A046]">S'installer à Dubai</a></li>
+      <li><a href="https://the-dubai-life.com/creer-une-entreprise/" target="_blank" class="flex font-normal tracking-wide text-white transition-colors duration-200 hover:text-[#D1A046]">Business</a></li>
+      <li><a href="https://the-dubai-life.com/investir/" target="_blank" class="flex font-normal tracking-wide text-white transition-colors duration-200 hover:text-[#D1A046]">Investir</a></li>
       <li class="text-[#7A7A7A]">
         <a href="tel:971 58 582 3822">
           <i class="fa fa-phone fa-lg"></i>
