@@ -17,7 +17,7 @@
             placeholder="Prénpm & nom"
             required=""
             type="text"
-            class="flex-grow w-full h-12 px-4 mb-3 bg-white border border-[#D19F46] rounded-xl shadow-sm appearance-none md:mr-2 md:mb-0 focus:outline-none focus:shadow-outline"
+            class="flex-grow w-full h-12 px-4 mb-3 bg-white border border-[#D19F46] rounded-xl shadow-sm appearance-none md:mr-2 md:mb-0 focus:outline-none focus:shadow-outline" 
           />
           <input
             placeholder="E-mail"
@@ -25,14 +25,15 @@
             type="email"
             class="flex-grow w-full h-12 px-4 mb-3 bg-white border border-[#D19F46] rounded-xl shadow-sm appearance-none md:mr-2 md:mb-0 focus:outline-none focus:shadow-outline"
           />
-          <!-- TO  -->
-          <input
+          <!-- International Phone Number  -->
+          <input 
             placeholder="06 12 34 56 78"
-            required=""
-            type="tel"
+            type="tel" 
+            id="tel"
+            th:field="*{mobileNumber}"
             class="flex-grow w-full h-12 px-4 mb-3 bg-white border border-[#D19F46] rounded-xl shadow-sm appearance-none md:mr-2 md:mb-0 focus:outline-none focus:shadow-outline"
-          />
-        
+            />
+
           <input
             placeholder="Adresse de la Rue"
             required=""
@@ -66,7 +67,7 @@
          
         </form>
       </div>
-      <div class='flex flex-col justify-center rounded-3xl border-2 border-[#D19F46]'>
+      <div class='flex flex-col justify-center rounded-3xl border-2 border-[#D19F46] py-4'>
         <img src='../../assets/ebook.png' class="mx-auto"alt="E-BOOK" />
         <p class="tracking-wider text-2xl text-center">1 <span class="font-bold">E-BOOK</span> <span class="font-bold text-[#D19F46]">=</span> 1 <span class="font-bold">TICKET</span></p>
       </div>
