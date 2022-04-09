@@ -1,6 +1,6 @@
 <div class="bg-white">
   <div class="relative mx-auto lg:mx-16 mx-0">
-      <img src='../../assets/hero.png' class="absolute inset-0 object-cover w-full h-full bg-black opacity-50" alt="" />
+      <img src='../../assets/hero.png' class="absolute inset-0 object-cover w-full h-full bg-black opacity-80" alt="" />
       <div class="bg-black">
       <div class="flex flex-col mb-16 sm:text-center sm:mb-0">
         <div class="relative max-w-xl mb-10 md:mx-auto text-center lg:max-w-2xl md:mb-12">

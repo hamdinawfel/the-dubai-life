@@ -12,6 +12,11 @@
         <script src="https://cdn.tailwindcss.com"></script>
         <!-- Alpine.js -->
         <script src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+        <!--International phone input field-->
+        <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.css" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script> -->
+
+         
     </head>
     <body>
 
@@ -23,9 +28,6 @@
 
          <!-- Main -->
         <?php include('./main.php'); ?>
-
-         <!-- Call To Action -->
-        <?php include('./cta.php'); ?>
 
         <!-- Footer -->
         <?php include('../../shared/footer.php'); ?>
