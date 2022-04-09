@@ -58,3 +58,11 @@ http://localhost:4000/www/screens/ui2/index.php
 # UI 1 (Mobile)
 
 ![screencapture-localhost-4000-www-screens-ui1-index-php-2022-04-08-03_17_13 (1)](https://user-images.githubusercontent.com/47576444/162351448-9bae523c-47aa-4e2e-b51c-7082f6b83737.png)
+
+# UI 2 (Desktop)
+
+![screencapture-localhost-4000-www-screens-ui2-index-php-2022-04-09-10_13_47](https://user-images.githubusercontent.com/47576444/162565268-993c570b-2ae9-42a5-9fa5-85ab7858e088.png)
+
+# UI 2 (Mobile)
+
+![screencapture-localhost-4000-www-screens-ui2-index-php-2022-04-09-10_26_46](https://user-images.githubusercontent.com/47576444/162565499-2c91a9f3-e285-40b2-a736-12699c31342d.png)
