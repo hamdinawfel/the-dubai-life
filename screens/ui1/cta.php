@@ -1,5 +1,5 @@
 <div class="bg-white">
-  <div class="relative mx-auto lg:mx-16 mx-0">
+  <div class="relative mx-auto lg:mx-16">
       <img src='../../assets/hero.png' class="absolute inset-0 object-cover w-full h-full bg-black opacity-80" alt="" />
       <div class="bg-black">
         <div class="flex flex-col sm:text-center sm:mb-0">
