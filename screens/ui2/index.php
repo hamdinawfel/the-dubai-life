@@ -28,7 +28,7 @@
         <?php include('../../shared/header.php'); ?>
 
          <!-- Hero -->
-        <?php include('../../shared/hero.php'); ?>
+        <!-- <?php include('../../shared/hero.php'); ?> -->
 
          <!-- Main -->
         <?php include('./main.php'); ?>

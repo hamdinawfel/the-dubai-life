@@ -31,14 +31,14 @@
             type="tel" 
             id="tel"
             th:field="*{mobileNumber}"
-            class="flex-grow w-full h-12 px-4 mb-3 bg-white border border-[#D19F46] rounded-xl shadow-sm appearance-none md:mr-2 md:mb-0 focus:outline-none focus:shadow-outline"
+            class="flex-grow w-full h-12 px-4 bg-white border border-[#D19F46] rounded-xl shadow-sm appearance-none md:mr-2 md:mb-0 focus:outline-none focus:shadow-outline"
             />
 
           <input
             placeholder="Adresse de la Rue"
             required=""
             type="text"
-            class="flex-grow w-full h-12 px-4 mb-3 bg-white border border-[#D19F46] rounded-xl shadow-sm appearance-none md:mr-2 md:mb-0 focus:outline-none focus:shadow-outline"
+            class="flex-grow w-full h-12 px-4 my-3 bg-white border border-[#D19F46] rounded-xl shadow-sm appearance-none md:mr-2 md:mb-0 focus:outline-none focus:shadow-outline"
           />
           <input
             placeholder="Cité"
